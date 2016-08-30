@@ -82,9 +82,12 @@
 
     database *temp=[_countarray objectAtIndex:indexPath.row];
     
-    cell..text=temp.ndate;
-    cell.contents.numberOfLines=7;
-
+    cell.text=temp.ndate;
+    //cell.numberOfLines=7;
+/////////fregdgdf
+    //////////fgget
+    //////////erggge
+    //jghejge
     
     return cell;
 }
