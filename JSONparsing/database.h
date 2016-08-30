@@ -11,4 +11,7 @@
 @interface database : NSObject
 @property(nonatomic,retain)NSString *ndate;
 
+//////////fggfhrst
+///////////gegeg
+//////gg
 @end
